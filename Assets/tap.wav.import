@@ -2,12 +2,12 @@
 
 importer="wav"
 type="AudioStreamSample"
-path="res://.import/slap.wav-6be9f97ee34d313bbd4e762088e4bc12.sample"
+path="res://.import/tap.wav-dda1fa266e799a066ccd97595ceb51c7.sample"
 
 [deps]
 
-source_file="res://slap.wav"
-dest_files=[ "res://.import/slap.wav-6be9f97ee34d313bbd4e762088e4bc12.sample" ]
+source_file="res://Assets/tap.wav"
+dest_files=[ "res://.import/tap.wav-dda1fa266e799a066ccd97595ceb51c7.sample" ]
 
 [params]
 
